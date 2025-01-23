@@ -54,6 +54,9 @@
 + If Machine Fails: `"There is a Machine Failure"`
 + If Machine Works: `"The Machine is working"`
 
+#### Output: 
+![Image](https://github.com/user-attachments/assets/ef535bd4-ffb9-482b-bd74-13328c018bd6)
+
 
 
 
